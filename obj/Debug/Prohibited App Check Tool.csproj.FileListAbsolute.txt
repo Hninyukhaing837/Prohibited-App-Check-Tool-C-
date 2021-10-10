@@ -1,0 +1,9 @@
+D:\Prohibited App Check Tool\bin\Debug\Prohibited App Check Tool.exe.config
+D:\Prohibited App Check Tool\bin\Debug\Prohibited App Check Tool.exe
+D:\Prohibited App Check Tool\bin\Debug\Prohibited App Check Tool.pdb
+D:\Prohibited App Check Tool\obj\Debug\Prohibited App Check Tool.csprojAssemblyReference.cache
+D:\Prohibited App Check Tool\obj\Debug\Prohibited_App_Check_Tool.Form1.resources
+D:\Prohibited App Check Tool\obj\Debug\Prohibited_App_Check_Tool.Properties.Resources.resources
+D:\Prohibited App Check Tool\obj\Debug\Prohibited App Check Tool.csproj.GenerateResource.cache
+D:\Prohibited App Check Tool\obj\Debug\Prohibited App Check Tool.exe
+D:\Prohibited App Check Tool\obj\Debug\Prohibited App Check Tool.pdb
